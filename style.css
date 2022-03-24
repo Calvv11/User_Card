@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container {
+    background-color: rgb(42, 169, 211);
+    height: 100px;
+    width: 606px;
+    margin: 0px auto;
+    margin-top: 40px;
+    padding: 0px;
+    border-radius: 5px;
+}
+
+.profile {
+    filter: invert(1);
+    height: 70px;
+    position: relative;
+    left: 30px;
+    bottom: 40px;
+    border: white solid;
+    border-radius: 100%;
+}
+
+.container-2 {
+    background-color: white;
+    height: 200px;
+    width: 600px;
+    border: solid;
+    border-color: rgb(159, 162, 165);
+    margin: 0px auto;
+    position: relative;
+    bottom: 10px;
+}
+
+.container-2 .name {
+    font-size: 30px;
+    position: relative;
+    left: 35px;
+    bottom: 35px;
+}
+
+.container-2 .map-marker {
+    position: relative;
+    top: 25px;
+    right: 42px;
+    height: 15px;
+}
+
+.container-2 .city {
+    position: relative;
+    font-size: 18px;
+    left: 60px;
+    bottom: 27px;
+    height: 15px;
+}
+
+.specifications {
+    text-align: justify;
+    position: relative;
+    bottom: 12px;
+    left: 38px;
+}
+
+.container-2 .gear {
+    height: 18px;
+    position: relative;
+    top: 106px;
+    right: 60px;
+}
+
+.edit {
+    position: relative;
+    left: 28px;
+    top: 10px;
+}
